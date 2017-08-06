@@ -14,3 +14,5 @@
 ## Appendix ##
 
 [1] https://en.wikipedia.org/wiki/Curve-shortening_flow
+
+[2] https://github.com/acarapetis/curve-shortening-demo/blob/master/csf.js
