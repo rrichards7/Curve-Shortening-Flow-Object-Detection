@@ -12,3 +12,5 @@
 ## Results ##
 
 ## Appendix ##
+
+[1] https://en.wikipedia.org/wiki/Curve-shortening_flow
