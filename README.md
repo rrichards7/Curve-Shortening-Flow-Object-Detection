@@ -1,2 +1,14 @@
-# Curve-Shortening-Flow-Object-Detection
-Object detection using curve-shortening flow
+# Object Detection using Curve-Shortening Flow #
+
+*Lead Architect: Ryan J. Richards*
+
+## Introduction/Methodology ##
+
+
+
+
+## LabVIEW Code ##
+
+## Results ##
+
+## Appendix ##
